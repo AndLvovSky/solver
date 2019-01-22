@@ -1,0 +1,4 @@
+p0 solved by a0 in 96
+
+Total time = 96
+- p0: solved in 96

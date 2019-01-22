@@ -1,0 +1,13 @@
+	Solver solver = new Solver(150);
+        solver.addApproach(new DegradedApproach("a0", "pa", 0.5f, true, 3, 0.5f, 2));
+        solver.addApproach(new DegradedApproach("a1", "pa", 0.4f, false, 2, 0.2f, 1));
+        solver.addApproach(new DegradedApproach("a2", "pb", 0.7f, false, 4, 0.3f, 3));
+        solver.addApproach(new DegradedApproach("a3", "pb", 0.5f, true, 1, 0.2f, 1));
+        solver.addProblem(new Problem("pa", 10));
+        solver.addProblem(new Problem("pb", 5));
+        solver.addProblem(new Problem("pa", 20));
+        solver.addProblem(new Problem("pb", 30));
+        solver.addProblem(new Problem("pa", 5));
+        solver.addProblem(new Problem("pb", 40));
+        solver.addProblem(new Problem("pb", 15));
+        solver.showResults(solver.solveAll());

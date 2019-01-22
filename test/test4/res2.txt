@@ -1,0 +1,12 @@
+p1 solved by a0 in 50
+p2 not solved by a0 (AC) in 50
+p2 not solved by a0 (AC) in 50
+p2 not solved by a0 (AC) in 50
+p2 not solved by a1 (AC) in 200
+p2 solved by a0 in 50
+p0 not solved by a2 (AC) in 480
+p3 not solved by a0 (TL) in 20
+p0 not solved by a2 (TL) in 20
+
+Total time = 500
+- p0: not solved (TL) in 500

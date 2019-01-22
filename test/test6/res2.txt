@@ -1,0 +1,6 @@
+p0 not solved by a0 (AC) in 48
+p0 not solved by a0 (AC) in 72
+p0 solved by a0 in 96
+
+Total time = 216
+- p0: solved in 216

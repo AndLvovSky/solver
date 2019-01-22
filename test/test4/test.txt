@@ -1,0 +1,7 @@
+ 	Solver solver = new Solver(500);
+        solver.addApproach(new RegularApproach("a0", "pa", 0.3f, true, 5));
+        solver.addApproach(new RegularApproach("a1", "pa", 0.7f, true, 20));
+        solver.addApproach(new MultitypeApproach("a2", "pb", 0.5f, true, 3,
+            2, new String[]{"pa", "pa"}, solver));
+        solver.addProblem(new Problem("pb", 10));
+        solver.showResults(solver.solveAll());

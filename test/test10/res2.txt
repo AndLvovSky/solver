@@ -1,0 +1,27 @@
+p0 not solved by a6 (AC) in 20
+p0 not solved by a2 (AC) in 50
+p0 not solved by a4 (TL) in 30
+p1 not solved by a2 (TL) in 100
+p2 solved by a5 in 8
+p3 solved by a7 in 25
+p4 solved by a4 in 8
+p5 solved by a5 in 10
+p6 solved by a9 in 18
+p7 solved by a2 in 60
+p8 solved by a4 in 47
+p79 solved by a9 in 87
+p80 solved by a5 in 10
+p81 not solved by a6 (TL) in 3
+p9 not solved by a8 (TL) in 100
+
+Total time = 476
+- p0: not solved (TL) in 100
+- p1: not solved (TL) in 100
+- p2: solved in 8
+- p3: solved in 25
+- p4: solved in 8
+- p5: solved in 10
+- p6: solved in 18
+- p7: solved in 60
+- p8: solved in 47
+- p9: not solved (TL) in 100

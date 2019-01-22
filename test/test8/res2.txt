@@ -1,0 +1,11 @@
+p0 not solved by a0 (AC) in 50
+p0 solved by a0 in 50
+p1 not solved by a0 (AC) in 36
+p1 not solved by a0 (AC) in 60
+p24 solved by a0 in 40
+p25 solved by a0 in 96
+p1 solved by a1 in 176
+
+Total time = 372
+- p0: solved in 100
+- p1: solved in 272

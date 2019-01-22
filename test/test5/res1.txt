@@ -1,0 +1,14 @@
+p1 not solved by a0 (AC) in 30
+p1 not solved by a0 (AC) in 30
+p1 not solved by a1 (AC) in 100
+p1 not solved by a0 (AC) in 30
+p1 not solved by a1 (AC) in 100
+p1 solved by a1 in 100
+p3 solved by a1 in 100
+p4 not solved by a0 (AC) in 30
+p4 solved by a1 in 100
+p2 solved by a3 in 280
+p0 solved by a2 in 700
+
+Total time = 700
+- p0: solved in 700

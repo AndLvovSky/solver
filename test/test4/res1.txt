@@ -1,0 +1,10 @@
+p1 solved by a0 in 50
+p2 not solved by a0 (AC) in 50
+p2 not solved by a0 (AC) in 50
+p2 not solved by a0 (AC) in 50
+p2 not solved by a0 (AC) in 50
+p2 solved by a1 in 200
+p0 solved by a2 in 480
+
+Total time = 480
+- p0: solved in 480

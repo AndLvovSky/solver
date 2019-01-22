@@ -1,0 +1,43 @@
+p0 solved by a4 in 40
+p1 not solved by a6 (AC) in 40
+p42 solved by a7 in 50
+p43 not solved by a0 (TL) in 10
+p40 not solved by a8 (TL) in 60
+p1 not solved by a3 (TL) in 60
+p45 not solved by a0 (AC) in 12
+p45 solved by a5 in 8
+p46 not solved by a9 (AC) in 8
+p46 solved by a7 in 20
+p47 solved by a4 in 39
+p2 solved by a8 in 95
+p3 solved by a9 in 87
+p4 solved by a2 in 30
+p5 solved by a1 in 40
+p6 solved by a7 in 10
+p7 not solved by a6 (AC) in 24
+p118 not solved by a9 (AC) in 64
+p118 not solved by a1 (TL) in 12
+p7 not solved by a3 (TL) in 76
+p142 not solved by a9 (AC) in 16
+p142 solved by a7 in 35
+p143 solved by a5 in 14
+p165 not solved by a5 (AC) in 14
+p165 not solved by a9 (TL) in 21
+p144 not solved by a3 (TL) in 35
+p140 not solved by a8 (TL) in 100
+p8 not solved by a3 (TL) in 100
+p9 not solved by a7 (AC) in 25
+p9 not solved by a7 (AC) in 40
+p9 not solved by a7 (TL) in 35
+
+Total time = 702
+- p0: solved in 40
+- p1: not solved (TL) in 100
+- p2: solved in 95
+- p3: solved in 87
+- p4: solved in 30
+- p5: solved in 40
+- p6: solved in 10
+- p7: not solved (TL) in 100
+- p8: not solved (TL) in 100
+- p9: not solved (TL) in 100

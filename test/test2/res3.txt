@@ -1,0 +1,18 @@
+p0 not solved by a0 (AC) in 50
+p0 solved by a1 in 40
+p1 not solved by a3 (AC) in 15
+p1 solved by a3 in 15
+p2 solved by a1 in 60
+p3 solved by a3 in 60
+p4 solved by a1 in 10
+p5 solved by a3 in 40
+p6 solved by a2 in 90
+
+Total time = 380
+- p0: solved in 90
+- p1: solved in 30
+- p2: solved in 60
+- p3: solved in 60
+- p4: solved in 10
+- p5: solved in 40
+- p6: solved in 90

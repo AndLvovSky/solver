@@ -1,0 +1,5 @@
+ 	Solver solver = new Solver(250);
+        solver.addApproach(new ResizableApproach("a0", "pa", 0.8f, true, 3,
+            2, 2));
+        solver.addProblem(new Problem("pa", 8));
+        solver.showResults(solver.solveAll());

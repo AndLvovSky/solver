@@ -1,0 +1,26 @@
+ 	Solver solver = new Solver(100);
+        solver.addApproach(new RegularApproach("a0", "pa", 0.3f, true, 3));
+        solver.addApproach(new ImprovableApproach("a1", "pa", 0.2f, false, 8, 0.4f, 1));
+        solver.addApproach(new DegradedApproach("a2", "pb", 0.8f, true, 10, 0.35f, 5));
+        solver.addApproach(new MultitypeApproach("a3", "pb", 0.5f, false, 3,
+            2, new String[]{"pa", "pa"}, solver));
+        solver.addApproach(new ResizableApproach("a4", "pb", 0.95f, false, 1,
+            5, 2));
+        solver.addApproach(new RegularApproach("a5", "pa", 0.8f, false, 2));
+        solver.addApproach(new ImprovableApproach("a6", "pb", 0.3f, false, 4, 0.1f, 1));
+        solver.addApproach(new DegradedApproach("a7", "pa", 0.8f, true, 5, 0.35f, 3));
+        solver.addApproach(new MultitypeApproach("a8", "pa", 0.5f, false, 2,
+            3, new String[]{"pa", "pa", "pb"}, solver));
+        solver.addApproach(new ResizableApproach("a9", "pa", 0.95f, false, 3,
+            4, 2));
+        solver.addProblem(new Problem("pb", 5));
+        solver.addProblem(new Problem("pb", 10));
+        solver.addProblem(new Problem("pa", 4));
+        solver.addProblem(new Problem("pa", 5));
+        solver.addProblem(new Problem("pb", 3));
+        solver.addProblem(new Problem("pa", 5));
+        solver.addProblem(new Problem("pa", 2));
+        solver.addProblem(new Problem("pb", 6));
+        solver.addProblem(new Problem("pb", 7));
+        solver.addProblem(new Problem("pa", 5));
+        solver.showResults(solver.solveAll());

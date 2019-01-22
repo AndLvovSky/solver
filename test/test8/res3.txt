@@ -1,0 +1,23 @@
+p0 solved by a0 in 50
+p1 not solved by a0 (AC) in 24
+p1 not solved by a0 (AC) in 12
+p16 solved by a0 in 40
+p18 not solved by a0 (AC) in 40
+p18 not solved by a0 (AC) in 40
+p18 solved by a0 in 40
+p19 not solved by a0 (AC) in 24
+p19 not solved by a0 (AC) in 24
+p36 not solved by a0 (AC) in 40
+p36 solved by a0 in 40
+p38 solved by a0 in 40
+p40 solved by a0 in 40
+p41 solved by a0 in 96
+p39 not solved by a1 (TL) in 136
+p37 not solved by a1 (TL) in 176
+p19 not solved by a1 (TL) in 256
+p17 not solved by a1 (TL) in 424
+p1 not solved by a1 (TL) in 464
+
+Total time = 550
+- p0: solved in 50
+- p1: not solved (TL) in 500

@@ -1,0 +1,7 @@
+p1 solved by a1 in 200
+p2 not solved by a1 (AC) in 200
+p2 not solved by a1 (TL) in 100
+p0 not solved by a2 (TL) in 500
+
+Total time = 500
+- p0: not solved (TL) in 500

@@ -1,0 +1,24 @@
+p0 not solved by a1 (AC) in 20
+p0 not solved by a1 (AC) in 30
+p0 not solved by a0 (AC) in 30
+p1 not solved by a2 (AC) in 20
+p1 not solved by a3 (AC) in 5
+p1 solved by a3 in 10
+p2 solved by a1 in 40
+p3 solved by a3 in 30
+p4 not solved by a0 (AC) in 15
+p4 not solved by a1 (AC) in 10
+p4 not solved by a1 (AC) in 15
+p5 not solved by a2 (TL) in 150
+p6 not solved by a3 (AC) in 15
+p6 not solved by a3 (AC) in 30
+p6 solved by a2 in 60
+
+Total time = 480
+- p0: not solved (LA) in 80
+- p1: solved in 35
+- p2: solved in 40
+- p3: solved in 30
+- p4: not solved (LA) in 40
+- p5: not solved (TL) in 150
+- p6: solved in 105

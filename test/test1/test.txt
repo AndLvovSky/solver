@@ -1,0 +1,10 @@
+	Solver solver = new Solver(200);
+	solver.addApproach(new RegularApproach("a0", "pa", 1.f, false, 1));
+	solver.addApproach(new RegularApproach("a1", "pa", 0.5f, true, 2));
+	solver.addApproach(new RegularApproach("a2", "pb", 0.5f, false, 3));
+        solver.addProblem(new Problem("pa", 10));
+        solver.addProblem(new Problem("pb", 5));
+        solver.addProblem(new Problem("pa", 50));
+        solver.addProblem(new Problem("pb", 10));
+        solver.addProblem(new Problem("pa", 2));
+        solver.showResults(solver.solveAll());
