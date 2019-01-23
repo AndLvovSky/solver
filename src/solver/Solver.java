@@ -128,8 +128,8 @@ public class Solver {
                 correctApproaches.add(approach);
             }
         }
-        int timeSum = 0; // час вирішення задачі
         Random random = new Random();
+        int timeSum = 0; // час вирішення задачі
         // поки залишився час та не закінчилися 
         // підходи, що можна застосувати
         while (timeLast > 0 && !correctApproaches.isEmpty()) {
